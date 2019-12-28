@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9235" started-at="2019-12-28T03:29:57Z" finished-at="2019-12-28T03:30:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9235" started-at="2019-12-28T03:29:57Z" finished-at="2019-12-28T03:30:06Z">
+      <class name="valid_member_alerts">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:valid_member_alerts@32d992b2]" name="beforeTest" is-config="true" duration-ms="6180" started-at="2019-12-28T08:59:57Z" finished-at="2019-12-28T09:00:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:1, instance:valid_member_alerts@32d992b2]" name="login" duration-ms="1377" started-at="2019-12-28T09:00:03Z" finished-at="2019-12-28T09:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:valid_member_alerts@32d992b2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-12-28T09:00:03Z" finished-at="2019-12-28T09:00:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:valid_member_alerts@32d992b2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-12-28T09:00:05Z" finished-at="2019-12-28T09:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:valid_member_alerts@32d992b2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-12-28T09:00:05Z" finished-at="2019-12-28T09:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="memberalerts()[pri:2, instance:valid_member_alerts@32d992b2]" name="memberalerts" duration-ms="1566" started-at="2019-12-28T09:00:05Z" finished-at="2019-12-28T09:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- memberalerts -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:valid_member_alerts@32d992b2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-12-28T09:00:06Z" finished-at="2019-12-28T09:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:valid_member_alerts@32d992b2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-12-28T09:00:06Z" finished-at="2019-12-28T09:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Mo()[pri:3, instance:valid_member_alerts@32d992b2]" name="Mo" duration-ms="78" started-at="2019-12-28T09:00:06Z" finished-at="2019-12-28T09:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mo -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:valid_member_alerts@32d992b2]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-12-28T09:00:06Z" finished-at="2019-12-28T09:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:valid_member_alerts@32d992b2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-12-28T09:00:06Z" finished-at="2019-12-28T09:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- valid_member_alerts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
